@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\mappings\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:mappings\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\mappings\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:mappings\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\mappings\\teachermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:mappings\\teachermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|c:\\users\\truon\\source\\repos\\fluentnhibernateexample\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2293E8-9E12-4C74-A755-3399A8D307ED}|FluentNHibernateExample.csproj|solutionrelative:nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherMap.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Mappings\\TeacherMap.cs",
+              "RelativeDocumentMoniker": "Mappings\\TeacherMap.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Mappings\\TeacherMap.cs",
+              "RelativeToolTip": "Mappings\\TeacherMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:10:12.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMap.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Mappings\\StudentMap.cs",
+              "RelativeDocumentMoniker": "Mappings\\StudentMap.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Mappings\\StudentMap.cs",
+              "RelativeToolTip": "Mappings\\StudentMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:35:16.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAAGsBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:51:30.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:35:36.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Mappings\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "Mappings\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Mappings\\ClassRoom.cs",
+              "RelativeToolTip": "Mappings\\ClassRoom.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:35:28.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "Models\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "Models\\ClassRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:35:46.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:55:46.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\FluentNHibernateExample\\NHibernateHelper.cs",
+              "RelativeToolTip": "NHibernateHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:55:10.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
