@@ -1,7 +1,7 @@
 # QuanLySinhVien_FluentNHibernate
 Example_FluentNHibernate_Project
 
-3 Table Query: 
+SQL Query của 3 bảng:
 
 CREATE TABLE Teacher (
     ID INT PRIMARY KEY IDENTITY(1,1),
